@@ -72,7 +72,7 @@ We welcome contributions to this project. If you'd like to contribute, follow th
 Please ensure your code adheres to the project's coding standards and write tests for new features where applicable.
 
 ## License
-This project is licensed under the [LICENSE] - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
