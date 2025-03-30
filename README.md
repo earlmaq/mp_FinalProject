@@ -19,3 +19,40 @@ EatCheep is a food delivery app inspired by services like UberEats. This project
 4. [Contributing](#contributing)
 5. [License](#license)
 6. [Acknowledgements](#acknowledgements)
+
+## Installation
+
+Follow these steps to set up this project on your local machine.
+
+1. Download the zip file 
+
+### Prerequisites
+
+Before you begin, ensure that you have the following installed:
+
+- **Flutter**: [Download Flutter](https://flutter.dev/docs/get-started/install) and set it up by following the official guide.
+- **Android Studio**: [Download Android Studio](https://developer.android.com/studio) and set up the Flutter plugin.
+- **Dart**: Dart comes pre-installed with Flutter, so you don’t need to install it separately.
+
+### Steps to Install
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/earlmaq/mp_FinalProject.git
+   cd mp_FinalProject
+2. Install dependencies: In your terminal, run:
+   ```bash
+   flutter pub get
+3. Set up an Android Emulator if you don't have it
+
+## Building and Running the Project
+
+### Build the Project
+1. To build the project for Android, run the following command in the project directory
+   ```bash
+   flutter build apk
+
+### Running the Project
+1. To run the project, use the following command:
+  ```bash
+  flutter run
